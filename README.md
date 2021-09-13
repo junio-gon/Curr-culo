@@ -33,7 +33,7 @@ Conclusão em 2010
   * Utilização de tecnologias como: Webpack, Asp Core com e sem framework (Entity) no Backend, React JS e Razor no Frontend além de módulos em Node JS para sustentação, controle e validações do React. Banco de dados SQL Server (com uso de procedure, functions, triggers, etc). Atuando também no build, expedição, e publicação do software no servidor;
   * Integração do software próprio com o ERP da SAP;
   * Responsável pela implantação de metodologia Ágil (Scrum) com gestão através do Jira, separação completa de ambientes (desenvolvimento, homologação e produção) do ciclo de vida do desenvolvimento da aplicação, utilização correta de Git (versionamento), expedição de releases do sw, metodologias e práticas de testes, Deploy contínuo, além de produção e atualização de documentação mínima; implantando também padrão de arquitetura (DDD e TDD);
-  * •	Realização de treinamentos relacionados a área de desenvolvimento de Sistemas.
+  *	Realização de treinamentos relacionados a área de desenvolvimento de Sistemas.
 <br>
 
 * (06/2020 -  03/2021) 
