@@ -27,7 +27,16 @@ Conclusão em 2010
 <br>
 
 ## Últimas Experências Profissionais
-* (06/2020 -  Atual) 
+* (03/2021 -  Atual / Metal Detector) 
+**Alutal** - *Analista de Desenvolvimento de Sistemas (Full Stack)*
+  * Analista e Desenvolvedor de sistemas web, no segmento para gestão e controle de produção, atuando na manutenção, correção e implementação de novas funcionalidades;
+  * Utilização de tecnologias como: Webpack, Asp Core com e sem framework (Entity) no Backend, React JS e Razor no Frontend além de módulos em Node JS para sustentação, controle e validações do React. Banco de dados SQL Server (com uso de procedure, functions, triggers, etc). Atuando também no build, expedição, e publicação do software no servidor;
+  * Integração do software próprio com o ERP da SAP;
+  * Responsável pela implantação de metodologia Ágil (Scrum) com gestão através do Jira, separação completa de ambientes (desenvolvimento, homologação e produção) do ciclo de vida do desenvolvimento da aplicação, utilização correta de Git (versionamento), expedição de releases do sw, metodologias e práticas de testes, Deploy contínuo, além de produção e atualização de documentação mínima; implantando também padrão de arquitetura (DDD e TDD);
+  * •	Realização de treinamentos relacionados a área de desenvolvimento de Sistemas.
+<br>
+
+* (06/2020 -  03/2021) 
 **TOTVS S/A** - *Analista Desenvolvedor*
   * Desenvolvedor de sistemas desktop, no segmento de Health Care (Planos de Saúde);
   * Utilização de tecnologias como: Delphi (2, 4, 6 e 10), C#, .Net, PHP, JAVA. Banco de dados Oracle. TFS com Visual Studio para controle de versões, criação de Branch e edição de arquivos. Jira, Trello e Zen Desk para gestão e controle de projetos/processos. Metodologias ágeis (SCRUM e Kanban). Testes Unitários (Criação e implementação de casos de teste);
